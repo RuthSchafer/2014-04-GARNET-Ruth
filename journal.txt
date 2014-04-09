@@ -1,7 +1,7 @@
 Author: Ruth Schafer
 Title: New Paper
 
-Abstract: This is going to be awsome new results on the function of proteins in plants. 
-Results: And here they are: xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Discussion: Muss ich noch drueber nachdenken
+Abstract:
+Results: 
+Discussion: 
 Materials:
